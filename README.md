@@ -12,12 +12,12 @@ Hi! I’m George Munday — a passionate software developer specializing in full
 I love building scalable web applications using modern technologies like Python, Flask, React, and TypeScript.  
 I’m always eager to learn new tools and frameworks, and I enjoy collaborating on open source projects.
 
-- 🔭 Currently working on full-stack projects and expanding my knowledge in cloud technologies.  
-- 🌱 Continuously learning advanced data science libraries and cloud-native development.  
+- 🔭 Currently working on full-stack projects and expanding my knowledge.  
+- 🌱 Continuously learning advanced data science libraries web development @dedalus.eu.  
 - 💬 Ask me about Python, JavaScript, TypeScript, or any web development topics.  
-- 📫 Reach me at: [your.email@example.com]  
+- 📫 Reach me at: [geoge@icloud.com]  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy hiking and photography in my free time!
+- ⚡ Fun fact: I like going to the gym and spending my free time with friends!
 
 
 ## 🛠️ Tech Stack

@@ -1,18 +1,26 @@
 ## Hi there 👋
 
-## GeorgeMunday/GeorgeMunday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeMunday&show_icons=true&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeMunday&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=radical)
+
+## 👋 About Me
+
+Hi! I’m George Munday — a passionate software developer specializing in full-stack development and data science.  
+I love building scalable web applications using modern technologies like Python, Flask, React, and TypeScript.  
+I’m always eager to learn new tools and frameworks, and I enjoy collaborating on open source projects.
+
+- 🔭 Currently working on full-stack projects and expanding my knowledge in cloud technologies.  
+- 🌱 Continuously learning advanced data science libraries and cloud-native development.  
+- 💬 Ask me about Python, JavaScript, TypeScript, or any web development topics.  
+- 📫 Reach me at: [your.email@example.com]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy hiking and photography in my free time!
+
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

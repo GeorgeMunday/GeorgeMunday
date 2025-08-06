@@ -1,16 +1,6 @@
 ## 📊 GitHub Stats
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 100%;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=radical" 
-        alt="Top Languages" 
-        style="width: 100%; height: auto;" 
-      />
-    </td>
-  </tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=normal&theme=radical)
 
 
 ## 👋 About Me

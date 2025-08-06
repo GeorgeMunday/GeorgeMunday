@@ -1,20 +1,8 @@
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=radical" alt="GeorgeMunday's Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtherUser1&layout=compact&theme=radical" alt="OtherUser1's Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtherUser2&layout=compact&theme=radical" alt="OtherUser2's Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
+![GeorgeMunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeMunday&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeMunday&theme=radical)
 
 ## 👋 About Me
 

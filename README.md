@@ -1,11 +1,17 @@
 ## 📊 GitHub Stats
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=radical" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeMunday&theme=radical" alt="GitHub Streak" /></td>
+    <td style="width: 100%;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=radical" 
+        alt="Top Languages" 
+        style="width: 100%; height: auto;" 
+      />
+    </td>
   </tr>
 </table>
+
 
 ## 👋 About Me
 

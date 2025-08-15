@@ -7,8 +7,8 @@ I love building scalable web applications using modern technologies like Python,
 I’m always eager to learn new tools and frameworks, and I enjoy collaborating on open source projects.
 
 - 🔭 Currently working on full-stack projects and expanding my knowledge.  
-- 🌱 Continuously learning advanced data science libraries and web development @dedalus.eu.  
-- 💬 Ask me about Python, JavaScript, TypeScript, or any web development topics.  
+- 🌱 Continuously learning advanced data science and web development.  
+- 💬 Ask me about Python, JavaScript, TypeScript.  
 - 📫 Reach me at: [geoge@icloud.com]  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I like going to the gym and spending my free time with friends!

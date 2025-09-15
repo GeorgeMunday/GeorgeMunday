@@ -1,5 +1,5 @@
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=dracula)
 ## 👋 About Me
 
 Hi! I’m George Munday — a passionate software developer specializing in full-stack development and data science.  

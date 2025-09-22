@@ -67,7 +67,7 @@ Tracks score, adds upgrades, and login with Firebase.
 
 ## 📊 GitHub Stats
 
-![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeMunday&show_icons=true&hide_title=true&count_private=false&hide=issues,contribs&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeMunday&theme=radical)
 
 ## 🧑‍💻 Top Languages
 

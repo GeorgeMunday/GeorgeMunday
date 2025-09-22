@@ -69,5 +69,5 @@ Tracks score, adds upgrades, and login with Firebase.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=dracula&hide=html,css)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeMunday&theme=dracula)
+![GitHub stars](https://img.shields.io/github/stars/owner/repo)
+![GitHub forks](https://img.shields.io/github/forks/owner/repo)

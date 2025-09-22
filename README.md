@@ -71,5 +71,5 @@ Tracks score, adds upgrades, and login with Firebase.
 
 ## 🧑‍💻 Top Languages
 
-![George's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&hide=html,css&theme=radical)
+![George's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&hide=html,css&theme=black)
 

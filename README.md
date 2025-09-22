@@ -65,3 +65,8 @@ Tracks score, adds upgrades, and login with Firebase.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Forms](https://img.shields.io/badge/Microsoft_Forms-00A4EF?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+## 📊 GitHub Stats
+
+![George's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeMunday&show_icons=true&hide_title=true&count_private=false&hide=issues,contribs&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeMunday&theme=dark)
+

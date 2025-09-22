@@ -17,7 +17,7 @@ I'm always eager to explore new tools and frameworks, and I enjoy contributing t
 
 ### 🎬 [Netflix Clone (SPA)](https://github.com/GeorgeMunday/netflix-clone)
 **Live Demo:** [netflix-clone-eight-xi-90.vercel.app](https://netflix-clone-eight-xi-90.vercel.app)  
-A sleek, responsive Netflix-inspired single page app built using TypeScript and Next.js.  
+A sleek, responsive Netflix-inspired app built using TypeScript and Next.js.  
 Features user authentication, dynamic movie data from TMDB, and interactive UI.
 
 **Tech Stack:** `TypeScript`, `Next.js`, `Tailwind CSS`, `Firebase`, `TMDB API`
@@ -29,7 +29,7 @@ Features user authentication, dynamic movie data from TMDB, and interactive UI.
 A fun browser-based clicker game built with React and Vite.  
 Tracks score, adds upgrades, and login with Firebase.
 
-**Tech Stack:** `TypeScript`, `Vite`, `React`, `CSS Modules`
+**Tech Stack:** `TypeScript`, `Vite`, `React`, `Tailwind`
 
 ---
 

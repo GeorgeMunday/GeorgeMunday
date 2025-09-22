@@ -65,9 +65,3 @@ Tracks score, adds upgrades, and login with Firebase.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Forms](https://img.shields.io/badge/Microsoft_Forms-00A4EF?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stars](https://img.shields.io/github/stars/owner/repo)
-![GitHub forks](https://img.shields.io/github/forks/owner/repo)

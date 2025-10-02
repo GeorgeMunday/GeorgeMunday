@@ -33,7 +33,6 @@ Tracks score, adds upgrades, and login with Firebase.
 
 ---
 
-## 🌐 Portfolio
 
 🔗 **Portfolio Website:** [vite-project-ivory-three.vercel.app](https://vite-project-ivory-three.vercel.app)
 ---

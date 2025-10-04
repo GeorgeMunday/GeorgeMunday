@@ -32,9 +32,8 @@ Tracks score, adds upgrades, and login with Firebase.
 **Tech Stack:** `TypeScript`, `Vite`, `React`, `Tailwind`
 
 ---
-
-
-🔗 **Portfolio Website:** [vite-project-ivory-three.vercel.app](https://vite-project-ivory-three.vercel.app)
+### 🔗Portfolio Website:
+** [vite-project-ivory-three.vercel.app](https://vite-project-ivory-three.vercel.app) **
 ---
 
 ## 🛠️ Tech Stack

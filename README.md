@@ -15,7 +15,7 @@ I'm always eager to explore new tools and frameworks, and I enjoy contributing t
 
 ## 🧪 Recent Projects
 
-### 🎬 [Netflix Clone (SPA)](https://github.com/GeorgeMunday/netflix-clone)
+### 🎬 [Netflix Clone (Next.js)](https://github.com/GeorgeMunday/netflix-clone)
 **Live Demo:** [netflix-clone-eight-xi-90.vercel.app](https://netflix-clone-eight-xi-90.vercel.app)  
 A sleek, responsive Netflix-inspired app built using TypeScript and Next.js.  
 Features user authentication, dynamic movie data from TMDB, and interactive UI.
@@ -24,7 +24,7 @@ Features user authentication, dynamic movie data from TMDB, and interactive UI.
 
 ---
 
-### 🕹️ [Clicker Game (SPA)](https://github.com/GeorgeMunday/clicker-game)
+### 🕹️ [Clicker Game (Vite.js)](https://github.com/GeorgeMunday/clicker-game)
 **Live Demo:** [burger-clicker-seven.vercel.app](https://burger-clicker-seven.vercel.app)  
 A fun browser-based clicker game built with React and Vite.  
 Tracks score, adds upgrades, and login with Firebase.

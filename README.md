@@ -32,8 +32,18 @@ Tracks score, adds upgrades, and login with Firebase.
 **Tech Stack:** `TypeScript`, `Vite`, `React`, `Tailwind`
 
 ---
-### 🔗 [Portfolio Website:]
- [vite-project-ivory-three.vercel.app](https://vite-project-ivory-three.vercel.app) 
+
+### 🌤️ [Weather App (Next.js)](https://github.com/GeorgeMunday/weather-website)
+**Live Demo:** [your-weather-app.vercel.app](https://your-weather-app.vercel.app)  
+A responsive weather app built with Next.js that allows users to search for any city and see current weather conditions including temperature, humidity, and wind speed.  
+Handles invalid city inputs gracefully and uses a public weather API.
+
+**Tech Stack:** `Next.js`, `React`, `Tailwind CSS`, `OpenWeatherMap API`
+
+---
+
+### 🔗 [Portfolio Website](https://vite-project-ivory-three.vercel.app)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -69,4 +79,3 @@ Tracks score, adds upgrades, and login with Firebase.
 ## 🧑‍💻 Top Languages
 
 ![George's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&hide=html,css&theme=radical)
-

@@ -34,7 +34,7 @@ Tracks score, adds upgrades, and login with Firebase.
 ---
 
 ### 🌤️ [Weather App (Next.js)](https://github.com/GeorgeMunday/weather-website)
-**Live Demo:** [your-weather-app.vercel.app](weather-app-eight-ruby-18.vercel.app)  
+**Live Demo:** [your-weather-app.vercel.app](https://weather-app-eight-ruby-18.vercel.app)  
 A responsive weather app built with Next.js that allows users to search for any city and see current weather conditions including temperature, humidity, and wind speed.  
 Handles invalid city inputs gracefully and uses a public weather API.
 

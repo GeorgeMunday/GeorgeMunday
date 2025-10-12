@@ -78,4 +78,4 @@ Handles invalid city inputs gracefully and uses a public weather API.
 
 ## 🧑‍💻 Top Languages
 
-![George's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&hide=html,css)
+![George's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&hide=html,css&theme=radical)

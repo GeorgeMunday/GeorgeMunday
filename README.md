@@ -6,7 +6,7 @@ I'm always eager to explore new tools and frameworks, and I enjoy contributing t
 
 - 🔭 Currently working on full-stack projects and expanding my knowledge.  
 - 🌱 Continuously learning advanced data science and front-end development.  
-- 💬 Ask me about **Python**, **C#**, **TypeScript**.  
+- 💬 Ask me about **C#**, **TypeScript**.  
 - 📫 Reach me at: [geoge@icloud.com](mailto:geoge@icloud.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I like going to the gym and spending my free time with friends!

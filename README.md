@@ -76,6 +76,3 @@ Handles invalid city inputs gracefully and uses a public weather API.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeMunday&theme=radical)
 
-## 🧑‍💻 Top Languages
-
-![George's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&hide=html,css)

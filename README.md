@@ -12,7 +12,7 @@ I love building scalable web applications using modern technologies like **Pytho
 ## Recent Project
 
 ### [Bargain List]
-**Live Demo:** [bargain-list.app](#)  
+**Live Demo:** [bargainlist.app](#)  
 A Next.js Progressive Web App (PWA) made with TypeScript and Firebase to create shopping lists that you can share with friends.  
 Features real-time synchronization, offline support, and collaborative list editing.  
 Installable on mobile devices for a native app-like experience.

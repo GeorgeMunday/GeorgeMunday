@@ -20,7 +20,7 @@ Installable on mobile devices for a native app-like experience.
 **Tech Stack:** `TypeScript`, `Next.js`, `Firebase`, `PWA`, `Tailwind CSS`
 
 ### [Burger Clicker]
-**Live Demo:** [burger-clicker-seven.vercel.app](#)  
+**Live Demo:** [burgerclicker-five.vercel.app](#)  
 game where you click a burger
 
 **Tech Stack:** `TypeScript`,`Firebase`, `Tailwind CSS`

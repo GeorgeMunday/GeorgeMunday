@@ -9,7 +9,7 @@ I love building scalable web applications using modern technologies like **Pytho
 - Pronouns: He/Him  
 - Fun fact: I like going to the gym and spending my free time with friends!
 
-## Recent Project
+## Most Recent Project
 
 ### [Bargain List]
 **Live Demo:** [bargainlist.app](#)  

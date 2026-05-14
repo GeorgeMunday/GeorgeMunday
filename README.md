@@ -35,5 +35,5 @@ Installable on mobile devices for a native app-like experience.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeMunday&layout=compact&theme=tokyonight)
 

@@ -11,13 +11,17 @@ I love building scalable web applications using modern technologies like **Pytho
 
 ## Most Recent Project
 
-### Bargain List
-**Live Demo:** [bargainlist.app](#)  
-A Next.js Progressive Web App (PWA) made with TypeScript and Firebase to create shopping lists that you can share with friends.  
-Features real-time synchronization, offline support, and collaborative list editing.  
-Installable on mobile devices for a native app-like experience.
+### Random Dashboard for my Portfolio
+**Live Demo:** [random-dashboard-for-my-portfolio.vercel.app](https://random-dashboard-for-my-portfolio.vercel.app)  
+#### Features 
+ This is a project that I can show employers that I can do NextJS and MongoDB
+- Authentication (Sign In, Sign Up, Sign Out)
+- Home Dashboard (Statistics, Random Dashboard Navigation, Random Number Generator, Server Information)
+- Comments Dashboard (Most Recent Comment, Display, Search, Create, Delete)
+- Theatres Dashboard (Number of Theatres, Most Common State, Display, Search)
 
-**Tech Stack:** `TypeScript`, `Next.js`, `Firebase`, `PWA`, `Tailwind CSS`
+
+**Tech Stack:** `TypeScript`, `Next.js`, `Mongo DB `, `Tailwind CSS`
 
 ## Tech Stack
 

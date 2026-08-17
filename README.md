@@ -18,11 +18,9 @@ I love building scalable web applications using modern technologies like **Pytho
 **Repository:** [GeorgeMunday/documentation-tracker](https://github.com/GeorgeMunday/documentation-tracker)  
 #### Features
 This project tracks API documentation updates for Next.js and MongoDB with real-time monitoring and search.
-- Real-time API change tracking
 - Next.js and MongoDB update coverage
 - Search across tracked updates
 - Recent changes overview
-- Online status display
 - Responsive UI
 
 **Tech Stack:** `TypeScript`, `Next.js`, `MongoDB`, `Tailwind CSS`

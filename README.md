@@ -5,17 +5,17 @@ I love building scalable web applications using modern technologies like **Pytho
 - Currently working on full-stack projects and expanding my knowledge.  
 - Continuously learning advanced data science and front-end development.  
 - Ask me about **C#**, **TypeScript**, **Blazor**, and **SQLite**, **Firebase**.  
-- Reach me at: [geoge@icloud.com](mailto:munaygeorge000@gmail.com)  
+- Reach me at: [munaygeorge000@gmail.com](mailto:munaygeorge000@gmail.com)  
 - Pronouns: He/Him  
 - Fun fact: I like going to the gym and spending my free time with friends!
 
 ## Portfolio
-**Live Site:** [george-munday.vercel.app](https://george-munday.vercel.app)  
+**Live Site:** [Click Here](https://george-munday.vercel.app)  
 
 ## Most Recent Project
 
 ### Documentation Tracker
-**Repository:** [GeorgeMunday/documentation-tracker](https://github.com/GeorgeMunday/documentation-tracker)  
+**Repository:** [Click Here](https://github.com/GeorgeMunday/documentation-tracker)  
 #### Features
 This project tracks API documentation updates for Next.js and MongoDB with real-time monitoring and search.
 - Next.js and MongoDB update coverage

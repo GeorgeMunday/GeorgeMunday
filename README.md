@@ -5,7 +5,7 @@ I love building scalable web applications using modern technologies like **Pytho
 - Currently working on full-stack projects and expanding my knowledge.  
 - Continuously learning advanced data science and front-end development.  
 - Ask me about **C#**, **TypeScript**, **Blazor**, and **SQLite**, **Firebase**.  
-- Reach me at: [geoge@icloud.com](mailto:geoge@icloud.com)  
+- Reach me at: [geoge@icloud.com](mailto:munaygeorge000@gmail.com)  
 - Pronouns: He/Him  
 - Fun fact: I like going to the gym and spending my free time with friends!
 

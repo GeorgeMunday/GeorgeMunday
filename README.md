@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm **George Munday** — a passionate software developer specializing in **full-stack development** and **data science**.  
+Hi! I'm **George Munday** — a passionate software developer specializing in **full-stack development**.
 I love building scalable web applications using modern technologies like **NextJS**, **Mongo DB**, and **TypeScript**.  
 
 - Currently working on full-stack projects and expanding my knowledge.  
